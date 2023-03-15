@@ -1,4 +1,4 @@
-#<h1 align="center"> Constructing Cointegrated Cryptocurrency Portfolios for Statistical Arbitrage </h1>
+<h1 align="center"> Constructing Cointegrated Cryptocurrency Portfolios for Statistical Arbitrage </h1>
 
 <head>
 
