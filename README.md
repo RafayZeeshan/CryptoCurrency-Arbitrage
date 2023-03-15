@@ -1,7 +1,15 @@
 # Constructing Cointegrated Cryptocurrency Portfolios for Statistical Arbitrage
-![binance-logo](https://repository-images.githubusercontent.com/117895247/66847d00-5267-11eb-911d-300609fb34ae)
 
-This Github repository contains the code and outputs of a python project carried out to create a cointegrated portfolio using four cryptocurrencies, with the aim of potentially reaping profits from an arbitrage opportunity.
+<head>
+
+</head>
+<body>
+	<div class="banner">
+		<img src= https://img.freepik.com/premium-vector/crypto-currency-horizontal-banner-bitcoin-digital-web-money-technology_48369-13318.jpg?w=2000 alt="ICO Types Banner">
+	</div>
+</body>
+
+This repository contains the code and outputs of a python project carried out to create a cointegrated portfolio using four cryptocurrencies, with the aim of potentially reaping profits from an arbitrage opportunity.
 
 
 The project was carried out based on the research paper titled "Constructing Cointegrated Cryptocurrency Portfolios for Statistical Arbitrage" by Tim Leung and Hung Nguyen. The paper proposed a methodology for constructing cointegrated portfolios of cryptocurrencies using a series of statistical tests, including the Johansen cointegration test and Engle-Granger two-step approach. The authors constructed cointegrated portfolios involving four cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), Bitcoin Cash (BCH), and Litecoin (LTC) and developed several trading strategies under different entry/exit thresholds and risk constraints. The methodology can be applied more generally to create new cointegrated portfolios using other cryptocurrencies.
