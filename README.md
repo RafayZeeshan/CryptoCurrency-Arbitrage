@@ -22,6 +22,6 @@ To ensure the stationarity of the residual terms, the augmented Dickey-Fuller (A
 
 The prediction for the values of coin prices is made using the Autoregressive Integrated Moving Average (ARIMA) model, and the parameters used for the model are defined.
 
-The trading strategy used for calculating the arbitrage profit involves short-selling when the Spread at a time t is below the lower specified limit, and using the long position for the Spread increasing beyond the limit. Different values above and below the mean were tested, and it was found that a “c*σ” value of 0.75σ gave the highest profit margin i.e. 209,895.20955233 USD on an initial investment of 100,000 USD, giving an ROI of 209.9% over the given period.
+The trading strategy used for calculating the arbitrage profit involves short-selling when the Spread at a time t is below the lower specified limit, and using the long position for the Spread increasing beyond the limit. Different values above and below the mean were tested, and it was found that a “c*σ” value of 0.75σ gave the highest profit margin i.e. 100k USD on an initial investment of 100,000 USD, giving an ROI of 100% over the given period.
 
 The repository includes graphs and visualizations of the data, code for the analysis, and instructions for running the project. The results and conclusions drawn from the analysis are also included in the report.
